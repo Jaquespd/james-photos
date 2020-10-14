@@ -68,5 +68,70 @@
     "views": 12,
     "saves": 2
   }
-]
+],
+  
+  
+  "videos" : [
+    {
+      "videoId": 0,
+      "publishDate": "2020-10-14T16:35:12.045Z",
+      "title": "Lorem ipsum dolor sit amet",
+      "subtitle": "Nostrud exercitation ullamco tempor incididunt",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+      "tags": [
+        "Minspace"
+      ],
+      "source": "",
+      "thumbnail": "https://swiftfoxapps.s3-eu-west-1.amazonaws.com/dev/thumbnail.png",
+      "length": 20,
+      "views": 76,
+      "saves": 20
+    },
+    {
+      "videoId": 1,
+      "publishDate": "2020-12-04T16:35:12.045Z",
+      "title": "Getting My 2nd Tattoo",
+      "subtitle": "Nostrud exercitation ullamco tempor incididunt",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+      "tags": [
+        "Minspace"
+      ],
+      "source": "",
+      "thumbnail": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/image-1.png",
+      "length": 60,
+      "views": 206,
+      "saves": 99
+    },
+    {
+      "videoId": 2,
+      "publishDate": "2020-10-14T16:35:12.045Z",
+      "title": "Return to Nature",
+      "subtitle": "Nostrud exercitation ullamco tempor incididunt",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+      "tags": [
+        "Minspace"
+      ],
+      "source": "",
+      "thumbnail": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/image-1.png",
+      "length": 10,
+      "views": 56,
+      "saves": 29
+    },
+    {
+      "videoId": 3,
+      "publishDate": "2020-10-14T16:35:12.045Z",
+      "title": "Return to Nature",
+      "subtitle": "Nostrud exercitation ullamco tempor incididunt",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+      "tags": [
+        "Minspace"
+      ],
+      "source": "",
+      "thumbnail": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/image-1.png",
+      "length": 100,
+      "views": 300,
+      "saves": 55
+    },
+  ],
+
 }
