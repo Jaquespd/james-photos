@@ -1,0 +1,72 @@
+{
+"photos" : [
+  {
+    "photoId": 0,
+    "publishDate": "2020-10-14T16:04:31.071Z",
+    "title": "Crazy summer",
+    "subtitle": "",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+    "tags": [
+      null
+    ],
+    "geolocation": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "source": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/photos/04b797c7-f595-4aa8-848c-95718088bfc4.jpeg",
+    "views": 12,
+    "saves": 5
+  },
+  {
+    "photoId": 1,
+    "publishDate": "2020-10-20T16:04:31.071Z",
+    "title": "Winter is comming",
+    "subtitle": "",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+    "tags": [
+      null
+    ],
+    "geolocation": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "source": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/photos/0e899619-3006-49b9-991a-dbd33e758373.png",
+    "views": 102,
+    "saves": 30
+  },
+  {
+    "photoId": 2,
+    "publishDate": "2020-11-06T16:04:31.071Z",
+    "title": "Mega blast",
+    "subtitle": "",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+    "tags": [
+      null
+    ],
+    "geolocation": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "source": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/photos/459bf5d2-e212-4279-89be-6370b7911022.jpeg",
+    "views": 72,
+    "saves": 50
+  },
+  {
+    "photoId": 3,
+    "publishDate": "2020-12-01T16:04:31.071Z",
+    "title": "The last sing",
+    "subtitle": "",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco tempor incididunt",
+    "tags": [
+      null
+    ],
+    "geolocation": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "source": "https://jamesgale.s3-eu-west-1.amazonaws.com/mac-demo/photos/b35fb459-a410-494e-ac67-da71c4601c1c.jpeg",
+    "views": 12,
+    "saves": 2
+  }
+]
+}
